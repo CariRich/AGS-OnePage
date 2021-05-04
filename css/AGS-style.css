@@ -42,6 +42,10 @@
 	background-color: #ee7d2b;
 }
 
+.templatemo_clientimage img:hover { border: 3px solid #3A8F5D; }
+
+.templatemo_clientimage:hover div.fa{ color: #3A8F5D; font-size: 12px; }
+
 .templatemo_reasonbg {
 	background: url("../images/AGS_reasonbg.jpg") no-repeat;
 	background-position: center;
