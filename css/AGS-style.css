@@ -15,7 +15,12 @@
 
 .btn-primary {
 	background-color: #ee7d2b;
-	border-color: #5ea32e;
+	border-color: #585E7E;
+}
+
+.btn-primary:hover {
+	background-color: #EC6F13;
+	border-color: #585E7E;
 }
 
 .texts-a {
