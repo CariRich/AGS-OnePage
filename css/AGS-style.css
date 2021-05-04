@@ -1,0 +1,104 @@
+@charset "utf-8";
+/*AGS CSS Document */
+
+#top-menu a:hover {
+    color: #ffffff;
+	background: #ee7d2b;
+}
+
+#top-menu li.active a {
+    color: #ffffff;
+	background: #ee7d2b;
+	line-height: 60px;
+	font-size: 14px;
+}
+
+.btn-primary {
+	background-color: #ee7d2b;
+	border-color: #5ea32e;
+}
+
+.texts-a {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	padding: 20px 30px;
+	background: #ee7d2b;
+	border-radius: 5px;
+	font-size: 32px;
+	color: #ffffff;
+}
+
+.hover-box {
+    background: #ee7d2b;
+}
+
+.portfolio-thumb .overlay-p { 
+	background-color: #ee7d2b;
+}
+
+.templatemo_wrapperblogbox a.fa:hover {
+	background: #ee7d2b;
+}
+
+.templatemo_wrapperblogbox .tooltip1:hover:after, .templatemo_wrapperblogbox .tooltip2:hover:after,
+.templatemo_wrapperblogbox .tooltip3:hover:after, .templatemo_wrapperblogbox .tooltip4:hover:after {
+    background: #ee7d2b;
+}
+
+.templatemo_blogtext span.right	a:hover i	{
+	color: #ee7d2b;
+}
+
+.templatemo_footer ul li:before {
+    content: "\002022 ";
+    color: #ee7d2b; 
+	font-size: 2.5em;
+    vertical-align: middle;
+	line-height: 30px;
+	margin-right: 5px;
+}
+
+.templatemo_morelink a{
+	float: left;
+	color: #EC6F13;
+	text-indent: 15px;
+}
+
+.templatemo_footer span.left {
+	float: left;
+	color: #ee7d2b;
+	font-size: 1.5em;
+	text-align: left;
+	line-height: 30px;
+}
+
+.templatemo_bottom .right a:hover div.soc{
+	background: #ee7d2b;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-width : 480px) {
+	/*.mainMenu li a {		
+		font-size: 8px;
+	}
+	#top-menu li a {		
+		font-size: 8px;
+	}*/
+	#top-menu li a	{ padding: 0px;}
+	#top-menu li.active a {
+    color: #ffffff;
+	background: #ee7d2b;	
+	}
+}
+
+@media(max-width:767px){
+	#top-menu li.active a {
+    color: #ffffff;
+	background: #ee7d2b;
+	line-height: 40px;
+	}
+}
+	
