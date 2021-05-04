@@ -42,6 +42,21 @@
 	background-color: #ee7d2b;
 }
 
+.templatemo_reasonbg {
+	background: url("../images/AGS_reasonbg.jpg") no-repeat;
+	background-position: center;
+	padding: 30px 0px 70px 0px;
+	color: #ffffff;
+	text-align: center;
+}
+
+.templatemo_services {
+	background: #ffffff;
+	border-radius: 5px;
+	padding: 20px 0px;
+	text-align: center;
+}
+
 .templatemo_wrapperblogbox a.fa:hover {
 	background: #ee7d2b;
 }
